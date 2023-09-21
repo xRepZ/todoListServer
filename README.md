@@ -1,3 +1,9 @@
+## Запуск в Docker
+### build:
+    docker compose build
+### up:
+    docker compose up
+  
 ## Типы HTTP-запросов: GET, POST, PUT
 
   ### POST /reg
