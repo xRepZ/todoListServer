@@ -3,6 +3,11 @@
     docker compose build
 ### up:
     docker compose up
+
+## Миграции
+### требуется https://github.com/golang-migrate/migrate
+    cd database/migrate
+    ./mig.sh
   
 ## Типы HTTP-запросов: GET, POST, PUT
 
